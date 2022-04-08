@@ -1,0 +1,208 @@
+#title
+{
+  background-color: #ff4c68;
+  color: white;
+}
+h1
+{
+  font-family: Montserrat, sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight:bolder;
+}
+.container-fluid
+{
+  padding : 3% 15% 7%;
+}
+body
+{
+  font-family: "Montserrat";
+  color: white;
+}
+.nav-link
+{
+  color: white;
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  color: white;
+  font-weight: bolder;
+  font-size: 2.5rem;
+}
+.navbar
+{
+  padding: 0 0 4.5rem;
+}
+.nav-item
+{
+  padding : 0 18px;
+
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+.download-button
+{
+  margin: 5% 3% 5% 0;
+}
+
+.mobile
+{
+  width: 20%;
+  transform: rotate(25deg); /* Equal to rotateZ(45deg) */
+  position: absolute;
+      right: 20%;
+
+}
+h3
+{
+  color: black;
+}
+p
+{
+  color : #8f8f8f;
+}
+h2
+{
+  color: white;
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.feature-box
+{
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 150px;
+}
+.heading-box
+{
+  font-family: "Montserrat";
+  font-weight: bold;
+  padding: 20px;
+}
+.feature-box1
+{
+  float:left;
+}
+.feature-box2
+{
+  float:left;
+}
+.feature-box3
+{
+  float:left;
+}
+#testimonials
+{
+
+text-align: center;
+background-color: #ef8172;
+color: white;
+}
+.testimonial-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press
+{
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;
+}
+.brand-logo
+
+{
+  width: 15%;
+  margin:20px 20px 50px;
+}
+.carousel-item
+{
+  padding: 7% 15%;
+}
+.imgfeature
+{
+  width: 15%;
+}
+#features
+{
+  padding: 7% 10%;
+  background-color: white;
+  position: relative;
+
+}
+.plan{
+  color: black;
+  text-align: center;
+    padding: 3% 3%;
+}
+#pricing
+{
+  padding: 50px;
+  text-align: center;
+}
+.pricing-coloumn
+{
+  padding: 3% 2%;
+}
+@media (max-width : 1028px)
+{
+.mobile
+{
+  position: static;
+  transform: rotate(0);
+  width:70%;
+  transform: rotate(0); /* Equal to rotateZ(45deg) */
+        right: 20%;
+
+}
+h1
+{
+  font-family: Montserrat, sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight:bolder;
+  text-align: center;
+}
+}
+#cta
+{
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+
+}
+.footertext
+{
+  font-family: Montserrat, sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight:bolder;
+
+}
+.footertext
+{
+  color: white;
+  padding-top: 50px;
+}
+ .download-button-bottom
+ {
+     margin: 5% 2% 2% 0;
+ }
+
+ #footer
+ {
+   text-align: center;
+padding : 7% 15%;
+ }
+ .iconfooter
+{
+  color: black;
+  padding: 20px 10px;
+}
